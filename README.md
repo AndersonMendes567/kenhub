@@ -1,5 +1,6 @@
-# kenhub
-Um site de aprendizagem de antomia
+# kenhub - clone
+Clone do KenHub - Um site de aprendizagem de antomia 
+* Site original: https://www.kenhub.com/pt
 ## Status
 Em desenvolvimento
 ## Contribuidores
